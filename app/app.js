@@ -16,6 +16,7 @@
 
         $mdThemingProvider.theme('default')
           .primaryPalette('deep-orange')
+          // .primaryPalette('blue')
           .accentPalette('blue')
           .warnPalette('red')
           ;

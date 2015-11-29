@@ -1,4 +1,4 @@
-(function(){
+w(function(){
 
   angular
        .module('landing')
